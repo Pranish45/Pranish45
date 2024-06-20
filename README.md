@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Scikit Learn,Pandas,Numpy**
 
-- 👨‍💻 Checkout my projects at [https://github.com/pranish045](https://github.com/pranish045)
+- 👨‍💻 Checkout my projects at [https://github.com/pranish45](https://github.com/pranish45)
 
 - 💬 Open to talk about **Data science, Data visualization, Deep Learning, machine learning**
 
