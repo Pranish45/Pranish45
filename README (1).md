@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranish</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranish45&label=Profile%20views&color=0e75b6&style=flat" alt="pranish45" /> </p>
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/SvckSy7fFviqrq8ClF.webp">
 
 - 🌱 I’m currently learning **Machine Learning**
 
