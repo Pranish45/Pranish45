@@ -1,7 +1,7 @@
 <img src="https://appnivi.com/wp-content/uploads/2022/11/Shutterstock-j7o0hD2crY.jpg" alt="MasterHead" style="width: 100%; height: 500px;">
 
 <h1 align="center">Hello 👋, I'm Pranish</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityapatil4141&label=Profile%20views&color=0e75b6&style=flat" alt="adityapatil4141" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranish45&label=Profile%20views&color=0e75b6&style=flat" alt="pranish45" /> </p>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/SvckSy7fFviqrq8ClF.webp">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
