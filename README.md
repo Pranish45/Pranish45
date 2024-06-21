@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranish</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranish45&label=Profile%20views&color=0e75b6&style=flat" alt="pranish45" /> </p>
-<img align="right" alt="Coding" width="360" src="https://i.giphy.com/SvckSy7fFviqrq8ClF.webp">
 
+<img align="right" alt="Coding" width="360" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXRoaGcyZHkxejE5a3JmMGNpMHk0OWRuaGkybjBrZzB6ajl5azdvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvckSy7fFviqrq8ClF/giphy.webp">
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pranish45](https://github.com/Pranish45)
