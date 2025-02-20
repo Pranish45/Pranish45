@@ -23,5 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranish45&show_icons=true&locale=en" alt="pranish45" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranish45&" alt="pranish45"/></p>
-
-<img align="right" alt="Coding" width="360" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2tibHI3Njk0ZHU0bTRnaWpldjZ1cnJ1b2J5a3gycHVkdzhzYmhjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7VzgMsB6FLCilwS30v/giphy.gif">
