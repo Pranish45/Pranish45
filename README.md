@@ -2,7 +2,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranish45&label=Profile%20views&color=0e75b6&style=flat" alt="pranish45" /> </p>
 <img align="right" alt="Coding" width="350" src="https://i.giphy.com/SvckSy7fFviqrq8ClF.webp">
 
-
 - 🌱 I’m currently exploring **NLP, Gen AI, Agentic AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pranish45](https://github.com/Pranish45)
